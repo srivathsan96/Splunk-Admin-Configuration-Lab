@@ -1,0 +1,21 @@
+2025-06-20 12:00:00 User login successful
+2025-06-20 12:05:12 Data fetch error
+2025-06-20 12:07:45 Logout event for user=admin
+2025-06-20 12:10:30 CPU usage spike detected at 95%
+2025-06-20 12:11:50 Background job started
+2025-06-20 12:13:20 Background job completed successfully
+2025-06-20 12:15:00 Email sent to user=manager
+2025-06-20 12:18:42 Session expired for user=guest
+2025-06-20 12:20:05 Disk warning: C:\ usage at 91%
+2025-06-20 12:23:33 Service restarted by user=admin
+2025-06-20 12:24:13 Service restarted by user=admin
+2025-06-20 12:30:00 Health check passed
+2025-06-20 12:32:12 Scheduled backup started
+2025-06-20 12:33:50 Scheduled backup completed
+2025-06-20 12:35:10 Disk warning: D:\ usage at 88%
+2025-06-20 12:36:22 Memory usage alert at 92%
+2025-06-20 12:37:45 User login failed for user=guest
+2025-06-20 12:39:00 New user registered: user=analyst
+2025-06-20 12:41:18 Session timed out for user=admin
+2025-06-20 12:42:45 Email sent to user=admin
+2025-06-20 12:45:00 User login successful

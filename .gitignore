@@ -1,0 +1,12 @@
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled output or cache
+*.pyc
+__pycache__/
+
+# Ignore temporary editors
+*.swp
+*.swo
+*.bak
