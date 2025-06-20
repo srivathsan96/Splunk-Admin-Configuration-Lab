@@ -139,7 +139,7 @@ event_id=4013 ts=2025-06-20 14:20:05 status=fail
 
 ### 1. Custom Indexes in Splunk Web
 
-![Indexes UI](screenshots/indexes-ui.png)
+![Indexes UI](screenshots/Indexes_Created_Using_Config_File.png)
 
 ### 2. Log Monitoring Paths in inputs.conf
 
